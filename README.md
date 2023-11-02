@@ -9,7 +9,7 @@
 
 🌱 I’m currently diving deeper into modern front-end architectures and always eager to learn about new tools and technologies that enhance web performance and user experience.
 
-💞️ I’m looking to collaborate on open-source projects, innovative start-ups, or any exciting projects in the web domain. I'm particularly interested in projects that leverage the power of AngularJS and WordPress.
+💞️ I’m looking to collaborate on open-source projects, innovative start-ups, or any exciting projects in the web domain. I'm particularly interested in projects that leverage the power of Angular , Javascript , HTML , CSS  and WordPress.
 
 📫 How to reach me: ouassaf.ayoub@gmail.com - linkedin.com/ayoub-ouassaf
 
