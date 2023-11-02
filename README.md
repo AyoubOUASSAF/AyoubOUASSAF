@@ -2,23 +2,20 @@
 
 👀 I’m a passionate front-end developer with expertise in crafting beautiful and functional user interfaces.
 
-🛠️ **My Technical Toolbox:**
-- 🌐 Web: HTML, CSS, JavaScript, TypeScript
-- 🅰️ Frameworks: Angular , VueJs
-- 📦 Backend: PHP, Java , C#
+🛠️ My Technical Toolbox:
 
-🌱 I’m currently diving deeper into modern front-end architectures and always eager to learn about new tools and technologies that enhance web performance and user experience.
+🌐 Web: HTML, CSS, JavaScript, TypeScript, jQuery
+🅰️ Frameworks: Angular v14, Angular v15, Vue.js
+📦 Backend: PHP, Java, C#
+🗃️ Databases: PostgreSQL, MySQL
+📚 CMS: WordPress
+🌱 I’m constantly exploring modern front-end architectures and I'm always on the lookout for new tools and technologies that enhance web performance and user experience.
 
-💞️ I’m looking to collaborate on open-source projects, innovative start-ups, or any exciting projects in the web domain. I'm particularly interested in projects that leverage the power of Angular , Javascript , HTML , CSS  and WordPress.
+💞️ I’m keen to collaborate on open-source projects, innovative start-ups, or any engaging web-based projects. I have a special interest in projects that leverage the capabilities of Angular, JavaScript, HTML, CSS, and WordPress.
 
-📫 How to reach me: ouassaf.ayoub@gmail.com - linkedin.com/ayoub-ouassaf
+📫 How to reach me: ouassaf.ayoub@gmail.com | LinkedIn
 
----
+Fun Fact: Every line of code I write reflects my commitment to building a more accessible and inclusive web for everyone.
 
-**Fun Fact:** Every line of code I write is a reflection of my dedication to building a more accessible and inclusive web for all.
-
----
-
-_AyoubOUASSAF/AyoubOUASSAF is a ✨ special ✨ repository
-
+_AyoubOUASSAF/AyoubOUASSAF is a ✨ special ✨ repository.
 
