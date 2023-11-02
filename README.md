@@ -4,8 +4,8 @@
 
 🛠️ **My Technical Toolbox:**
 - 🌐 Web: HTML, CSS, JavaScript, TypeScript
-- 🅰️ Frameworks: AngularJS
-- 📦 Backend: PHP, WordPress
+- 🅰️ Frameworks: Angular , VueJs
+- 📦 Backend: PHP, Java , C#
 
 🌱 I’m currently diving deeper into modern front-end architectures and always eager to learn about new tools and technologies that enhance web performance and user experience.
 
