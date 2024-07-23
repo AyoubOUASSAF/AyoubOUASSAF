@@ -13,7 +13,7 @@
 
 💞️ I’m keen to collaborate on open-source projects, innovative start-ups, or any engaging web-based projects. I have a special interest in projects that leverage the capabilities of Angular, JavaScript, HTML, CSS, and WordPress.
 
-📫 How to reach me: ouassaf.ayoub@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayoub-ouassaf/)
+📫 How to reach me: ouassaf.ayoub@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayoub-ouassaf/) | https://ayoubdev.pro/
 
 ---
 
